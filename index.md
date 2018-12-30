@@ -1,6 +1,10 @@
----
-layout: default
-title: My first jekil content
-subtitle: Knowing oneself is the beginning of all knowledge
----
-My first jekil content
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Home</title>
+  </head>
+  <body>
+    <h1>Hello World!</h1>
+  </body>
+</html>
