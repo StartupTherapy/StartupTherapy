@@ -1,5 +1,6 @@
-theme: jekyll-theme-minimal
 title: Startup Therapy
 description: A blog about how launching a Startup can make you feel better
+author: MarcoSantonastasi
+theme: jekyll-theme-minimal
 logo: /assets/img/ST-logo.png
 show_downloads: false
