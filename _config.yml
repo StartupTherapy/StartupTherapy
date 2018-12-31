@@ -5,6 +5,7 @@ remote_theme: StartupTherapy/st_theme_minimal
 logo: /assets/img/ST-logo.png
 favicon: /assets/img/favicon.ico
 show_downloads: false
+permalink: none
 
 collections:
   episodes:
