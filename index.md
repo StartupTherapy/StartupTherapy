@@ -11,7 +11,7 @@ I am learning a lot, honing my skills, making new friends in the process and som
 
 The experience is exhilarating and can really change your life for the better, irrespective of wether your startup ends up a precious unicorn or a working donkey, so I recommend you try it too!
 
-I thought that writing about my newly discovered passion could have some benefits, and maybe encourage others to try, so I took to the internet and started this website to chronicle some episodes of my experience.
+I thought that writing about my passion could have some benefits, and maybe encourage others to try, so I took to the internet and started this website to chronicle some episodes of my experience.
 
 I conceived it as a collections of episodes, rather than chapters or blog posts, for the simple reason that it was the only way in which it would not feel like a chore or a recurring burden to me.
 Also, I created this site to share my personal experience, but from the onset I felt I had to make it open for anybody who was looking for a community to belong to and the episode format seemed the easiest way to leave space for creative freedom and non-linear storytelling.
