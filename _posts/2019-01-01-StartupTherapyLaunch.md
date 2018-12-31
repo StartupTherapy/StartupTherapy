@@ -18,7 +18,8 @@ So, at the end, here is why you should read Startup Therapy, contribute to it an
 - Makes your startup immediately better.
 - Makes you friends
 
-This new year's day launch comes without much bells and wistles, not even pretty pictures in the episode posts. Meidum.com hack is still not implemented and contribution by anyone else but me is not yet figured out. Disqus plugin for comments is not implemented and the Jekyll theme is very basic.
+This new year's day launch comes without a lot of bells and wistles, not even pretty pictures in the episode posts.
+Meidum.com hack is still not implemented and contribution by anyone else but me is not yet figured out. Disqus plugin for comments is not implemented and the Jekyll theme is very basic.
 You can alredy tell you are looking an an **MVP**, the mithycal Minimim Viable Product. If you never saw one, here is one for you, one you can even contribute to.
 
 Hope you get along for the fun ride and help me grow this into a small group of friends and maybe a community.
