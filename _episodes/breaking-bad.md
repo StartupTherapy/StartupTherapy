@@ -1,7 +1,7 @@
 ---
 title: Breaking Bad
 ---
-###### It took Walter to spit blood into his handkerchief to break, it took me much less, fortunately.
+##### It took Walter to spit blood into his handkerchief to break, it took me much less, fortunately.
 
 I am sure everybody will recognise a moment in their lives when their view of the future suddenly changed.
 Yes, the future; no, not the past or the present: the future.
