@@ -6,6 +6,9 @@ logo: /assets/img/ST-logo.png
 favicon: /assets/img/favicon.ico
 show_downloads: false
 
+collections:
+  - episodes
+  
 # Instructions for Jekyll SEO plugin sitewide cofiguraiton. https://jekyll.github.io/jekyll-seo-tag
 # Post-specific configuration is in the front matter fo the sample document teplate
 # lang - The locale these tags are marked up in. Of the format language_TERRITORY. Default is en_US.
