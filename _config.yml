@@ -7,7 +7,8 @@ favicon: /assets/img/favicon.ico
 show_downloads: false
 
 collections:
-  - episodes
+  episodes:
+    output: true
   
 # Instructions for Jekyll SEO plugin sitewide cofiguraiton. https://jekyll.github.io/jekyll-seo-tag
 # Post-specific configuration is in the front matter fo the sample document teplate
