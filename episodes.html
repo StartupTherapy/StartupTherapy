@@ -4,9 +4,11 @@ title: Episodes
 ---
 <h1>Episodes</h1>
 
-<ul>
+<ol>
+  {% for episode in site.episodes %}
     <li>
-      <h2><a href="/episodes/breaking-bad.html">Breaking Bad</a></h2>
-      <p>Excerpt goes here</p>
+      <h2><a href="{{ episode.url }}">{{ episode.title }}</a></h2>
+      <p>{{ episode.excerpt }}</p>
     </li>
-</ul>
+  {% endfor %}
+</ol>
