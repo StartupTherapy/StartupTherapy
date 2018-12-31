@@ -1,5 +1,6 @@
 ---
 title: Seven years in Tibet
+layout: post
 ---
 ##### When I look back it seems unbeliaveble that seven years have elapsed, but incredibly they passed in a blink.
 
