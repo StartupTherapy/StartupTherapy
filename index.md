@@ -5,7 +5,7 @@ title: Home
 # Welcome to Startup Therapy
 ## Launch startups and feeling good about it!
 
-I begun launching startups as a remedy for middle life crisis since I could not afford the typical creature comforts of middle life, such as a multi-million dollar retirement found, a fast cabriolet and a nose job.
+I begun launching startups as a remedy for middle life crisis because I could not afford the typical creature comforts of middle life, such as a multi-million dollar retirement found, a fast cabriolet and a nose job.
 
 I am learning a lot, honing my skills, making new friends in the process and somehow growing younger at heart.
 
