@@ -1,5 +1,6 @@
 ---
 title: Breaking Bad
+layout: post
 ---
 ##### It took Walter to spit blood into his handkerchief to break, it took me much less, fortunately.
 
