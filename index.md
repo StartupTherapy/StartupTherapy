@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Home
+image: /assets/img/ST-logo.png
 ---
 # Welcome to Startup Therapy
 ## Launch startups and feel good about it!
